@@ -2,15 +2,13 @@ import { Flex } from '@chakra-ui/react'
 import data from './data.json'
 import { colors } from './color'
 import { intToRoman } from './helpers'
-import { useNavigate } from 'react-router-dom'
 
 export const MainPage = () => {
-    const nav = useNavigate()
     return (
         <Flex
             flexDir="column"
             align="center"
-            h={'100vh'}
+            minh={'100vh'}
             bgColor={colors.darkbrown}
             gap={4}
         >
@@ -21,13 +19,26 @@ export const MainPage = () => {
                 {data.map((card) => (
                     <Flex
                         key={card.id}
+                        width="100%"
+                        justify="center"
                         color={colors.pink}
                         fontSize="2xl"
                         gap={10}
+                        borderRadius={10}
                         _hover={{
                             bgColor: colors.brown,
+                            cursor: 'pointer',
                         }}
-                        onClick={() => nav(`/card/${card.id}`)}
+                        _active={{
+                            bgColor: colors.brown,
+                        }}
+                        onClick={() =>
+                            window.open(
+                                '/card/' + card.id,
+                                '_blank',
+                                'rel=noopener noreferrer'
+                            )
+                        }
                     >
                         <Flex>{intToRoman(card.id)}</Flex>
                         <Flex>{card.name}</Flex>

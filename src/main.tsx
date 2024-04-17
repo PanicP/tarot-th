@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import { MainPage } from './MainPage.jsx'
 import { Link, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import { ChakraProvider } from '@chakra-ui/react'
+import './main.css'
 
 const router = createBrowserRouter([
     {

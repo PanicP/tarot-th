@@ -2,12 +2,26 @@
     {
         "id": 0,
         "name": "The Fool",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. ",
+        "subname": "เทพเจ้าเหล้าองุ่น",
+        "work": "",
+        "financial": "",
+        "love": "",
+        "health": "",
+        "caution": "",
+        "other": ""
     },
     {
         "id": 1,
-        "name": "The Fool",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+        "name": "The Magician",
+        "desc": "เป็นช่วงของการได้รับความไว้วางใจจากผู้ใหญ่ การได้อำนาจ การเข้าไปรับผิดชอบสิ่งที่ดีกว่าเดิมเหนือกว่าเดิม การเป็นตัวกลางตัวเชื่อมในสถานการณ์ต่างๆการแก้ปัญหาด้วยความชาญฉลาด ปกติหากใครได้ไฟใบนี้ในเหตุการณ์ปัจจุบัน มักจะได้ความคิด แรงบัลดาลใจใหม่ๆ หรือวิธีแก้ปัญหา ทำให้ผ่านพ้นอุปสรรค",
+        "subname": "-",
+        "work": "เป็นช่วงโอกาสทอง จะได้ใกล้ชิดผู้ใหญ่หรือคนสำคัญ จะได้รับมอบหมายจะได้ตำแหน่ง มีความก้าวหน้า การเป็นที่ปรึกษาให้คำแนะนำ งานเยอะ จับงานหลากหลาย การใช้อำนาจของผู้ใหญ่มาเป็นประโยชนให้ตัวเอง เป็นช่วงของการใช้ทรัพยากรทุกอย่างเข้ามาทำให้เกิดความสำเร็จให้ได้ คนที่มีไฟใบนี้เป็นตัวแทน จึงเป็นคนชอบสอนชอบแนะนำเหมาะกับการเป็นครูอาจารย์ เป็นวิทยากร เป็นหมอดู ที่ปรึกษาฝ่ายวางแผน ฝ่ายอบรม เขียนหนังสือรวมทั้งทำงานด้านสื่อมวลชน ด้านสื่อสาร อันได้แก่ นักข่าว นักจัดรายการ ทำเว็บไซต์งานเกี่ยวกับไปรษณีย์ องค์การโทรศัพท์ การสื่อสารต่างๆ อาชีพที่ทำไม่จำเป็นต้องเรียนมาก่อนขอให้สนใจก็จะเรียนรู้ได้ดี เพราะเป็นคน มีพรสวรรค์อยู่แล้ว รวมถึงพิธีกร นักผจญภัย งานต่างประเทศ งานโฆษณาประชาสัมพันธ์ นักค้นคว้า นักวิทยาศาสตร์ นักพูดฝีปากเอก ทนายความ เซลส์แมนงานลิขสิทธิ์ทางปัญญา รวมถึงอาชีพเกี่ยวกับสุขภาพ เป็นหมอ พยาบาล เกสัช",
+        "financial": "เงินคล่องตัว พูดจาเป็นเงินเป็นทอง ได้เงินจากการติดต่อเป็นตัวกลางตัวเชื่อม ค้าขายดีการเพิ่มเงินเดือน แต่จะใช้จ่ายมากในเรื่องของความสัมพันธ์และสิ่งที่ใช้ในหนเป็นคนหาเงินได้ง่าย เพราะมีความรู้หลายอย่าง ข้อเสียคือ จะทำอะไรสักอย่าง ก็ทุ่มเทได้ไม่นาน รายได้จึงขาดๆ หายๆ แต่ไม่เคยขัดสน บางครั้งเงินก็เข้ามามากมายจนน่าตกใจ แต่ก็ใช้มากจนน่าตกใจเช่นกัน มีเงินชอบเอาไปเที่ยว ท่องเที่ยวทั้งในและต่างประเทศ หรือไม่ก็ซื้อรถ เปลี่ยนรถบ่อย",
+        "love": "เสน่ห์แรง มีคนสนใจเป็นจำนวนมาก แต่จะยุ่งกับงานและสังคมมากจนไม่มีเวลาสร้างสายสัมพันธ์ให้คืบหน้า มีแฟนยาก แต่งงานยาก เห็นงานสำคัญกว่าความรัก ที่ต้องการความเหมาะสมด้านอื่นๆ ด้วย ไม่มีเวลาให้ครอบครัว ห่างไกลบ้าน ลักษณะของคนแบบไฟใบนี้ เป็นคนขี้เหงา ชอบมีคนมาพูดมาคุยอยู่กล้ๆสนิทกับคนง่าย ค่อนข้างจะเจ้าชู้ พูดเก่ง ทำให้คนหลงรักง่าย น่ารัก รักสามเส้า รักเผื่อเลือก จึงแต่งงานยากจนกว่าจะมีให้เลือกจนพอใจ ส่วนมากมักจะเปลี่ยนใจง่าย จึงไม่ลงเอยสักที ไปอยู่ที่ไหนก็เข้ากับใครเขาได้ ทำให้เขาชอบเขารักได้เร็ว แต่เพราะเป็นคนไม่อยู่ติดที่จึงทำให้ลงเอยกับใครได้ยาก แถมยังไม่ค่อยจะอยู่บ้าน ชอบเข้าสังคม อีกด้วย ใครเป็นคู่ของเขาก็ต้องอดทนให้มากๆ",
+        "health": "เป็นคนสุขภาพแข็งแรง ไม่ค่อยเจ็บป่วยอะไรง่ายๆ ในกรณีที่กำลังเจ็บป่วย แล้วหยิบได้ไพใบนี้ จะหมายถึงการหายวันหายคืน ได้หมอดีหรือได้ยาดี ถ้าจะมีปัญหาเรื่องสุขภาพ จะเป็นเรื่อง คิดมาก เครียด เหนื่อยง่าย หงุดหงิด ควรจะออกกำลังกายบ้าง",
+        "caution": "ต้องระวัง การตกลงที่ไม่รัดกุม การพูดกันโดยที่ไม่มีหลักฐานยืนยันชัดเจนการเข้าใจไปเอง",
+        "other": ""
     },
     {
         "id": 2,
@@ -18,6 +32,70 @@
         "id": 3,
         "name": "The Fool",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
-
+    },
+    {
+        "id": 4,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 5,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 6,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 7,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 8,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 9,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 10,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 11,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 12,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 13,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 14,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 15,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
+    },
+    {
+        "id": 16,
+        "name": "The Fool",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada est eros, nec fringilla nisi varius eget. Proin augue nisi, auctor eu pharetra nec, ornare bibendum felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet risus id convallis semper. Duis hendrerit ex in neque venenatis, in malesuada nisl ullamcorper. Etiam interdum eros in turpis molestie elementum. Aenean interdum enim non enim fringilla malesuada. Nullam maximus luctus pharetra. Sed eu tempus magna. Mauris sed porttitor purus, vitae ultrices ligula. Sed vel ex enim. Pellentesque rhoncus suscipit pulvinar. Etiam et porttitor diam, cursus tristique leo. Nullam. "
     }
 ]
