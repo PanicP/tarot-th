@@ -12,24 +12,29 @@ import { colors } from './color'
 import { useMemo } from 'react'
 import data from './data.json'
 
-const cardTopics = [
-    'habit',
-    'general',
-    'other',
-    'caution',
-    'work',
-    'job',
-    'financial',
-    'love',
-    'marriage',
-    'children',
-    'health',
-]
+type CardData = {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    [key: string]: any
+}
+
+// const cardTopics = [
+//     'habit',
+//     'general',
+//     'other',
+//     'caution',
+//     'work',
+//     'job',
+//     'financial',
+//     'love',
+//     'marriage',
+//     'children',
+//     'health',
+// ]
 export const CardPage = () => {
     const location = useLocation()
     const id = location.pathname.split('/').pop()
 
-    const cardData = useMemo(
+    const cardData: CardData = useMemo(
         () => data?.find((card) => card.id === Number(id)) || {},
         [id]
     )
@@ -42,13 +47,13 @@ export const CardPage = () => {
         <Flex
             flexDir="column"
             align="center"
-            minh={'100vh'}
+            minH={'100vh'}
             bgColor={colors.darkbrown}
             gap={4}
         >
             <Link to="/">Home</Link>
             <Flex color={colors.lightblue} fontSize="4xl">
-                {cardData?.name}
+                {cardData.name}
             </Flex>
             <Flex
                 flexDir="column"

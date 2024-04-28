@@ -8,7 +8,7 @@ export const MainPage = () => {
         <Flex
             flexDir="column"
             align="center"
-            minh={'100vh'}
+            minH={'100vh'}
             bgColor={colors.darkbrown}
             gap={4}
         >

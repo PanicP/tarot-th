@@ -1,4 +1,5 @@
 {
+  "homepage": "https://panicp.github.io/tarot-th",
   "name": "tarot-th",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
