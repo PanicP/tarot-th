@@ -4,6 +4,7 @@ import { MainPage } from './MainPage.jsx'
 import { Link, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import { ChakraProvider } from '@chakra-ui/react'
 import './main.css'
+import { CardPage } from './CardPage.js'
 
 const router = createBrowserRouter([
     {
@@ -12,12 +13,7 @@ const router = createBrowserRouter([
     },
     {
         path: '/card/:id',
-        element: (
-            <div>
-                <h1>Each card </h1>
-                <Link to="/">Home</Link>
-            </div>
-        ),
+        element: <CardPage />,
     },
 ])
 
