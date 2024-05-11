@@ -8,11 +8,11 @@ import { CardPage } from './CardPage.js'
 
 const router = createBrowserRouter([
     {
-        path: '/',
+        path: '/tarot-th/',
         element: <MainPage />,
     },
     {
-        path: '/card/:id',
+        path: '/tarot-th/card/:id',
         element: <CardPage />,
     },
 ])

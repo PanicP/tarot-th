@@ -34,7 +34,7 @@ export const MainPage = () => {
                         }}
                         onClick={() =>
                             window.open(
-                                '/card/' + card.id,
+                                `card/${card.id}`,
                                 '_blank',
                                 'rel=noopener noreferrer'
                             )
